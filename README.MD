@@ -30,3 +30,8 @@ const APIKEY = "YOUR_MAPBOX_TOKEN";
 ```
 npx react-native run-android
 ```
+
+# Features
+* Localização em tempo real
+* Indicador da direção que o usuário está indo
+* KeepAlive - Impede a tela do dispositivo apagar quando não se está integarindo com app. 
