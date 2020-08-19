@@ -35,4 +35,6 @@ npx react-native run-android
 * Localização em tempo real.
 * Indicador da direção que o usuário está indo.
 * KeepAlive que impede a tela do dispositivo apagar quando não se está integarindo com app. 
+
+# Prints
 ![](print.png)
