@@ -6,7 +6,7 @@ import MapboxGL from "@react-native-mapbox-gl/maps";
 import Geolocation from '@react-native-community/geolocation';
 
 
-const APIKEY = "pk.eyJ1IjoiaW1wZXJ2aWN0b3IiLCJhIjoiY2tlMXFxdmtlMDIwYjMzb3lvZGQ4MWMwaCJ9.yYFdDHQmS1y1TmrKGqi2sg";
+const APIKEY = "YOUR_MAPBOX_TOKEN";
 MapboxGL.setAccessToken(APIKEY);
 MapboxGL.setConnected(true);
 MapboxGL.setTelemetryEnabled(false);
