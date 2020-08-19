@@ -19,7 +19,8 @@ e adicione as permissões abaixo:
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
 ```
-No App.js insira sua "Default public token" do Mapbox (see: https://docs.mapbox.com/help/how-mapbox-works/access-tokens/)
+
+Em *App.js* insira sua "Default public token" do Mapbox (see: https://docs.mapbox.com/help/how-mapbox-works/access-tokens/)
 
 ```
 const APIKEY = "YOUR_MAPBOX_TOKEN";
