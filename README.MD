@@ -39,3 +39,5 @@ npx react-native run-android
 
 # Prints
 ![](print.png)
+![](print2.png)
+![](print3.png)
